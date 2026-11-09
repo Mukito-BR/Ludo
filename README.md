@@ -1,3 +1,9 @@
+
+<img width="1467" height="939" alt="image" src="https://github.com/user-attachments/assets/7911da66-8e82-4ccc-976a-10675508aaa1" />
+
+<img width="1496" height="884" alt="image" src="https://github.com/user-attachments/assets/78516b70-76ab-4523-ad34-efae9d4a6c26" />
+
+
 # Ludo dos Amigos
 
 Jogo de Ludo online para 2 a 4 jogadores, com salas privadas, código de acesso e escolha de cores.
