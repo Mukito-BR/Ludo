@@ -1,0 +1,7 @@
+{
+  "name": "ludo-amigos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ludo online para 2 a 4 jogadores",
+  "scripts": { "start": "node server.js" }
+}
